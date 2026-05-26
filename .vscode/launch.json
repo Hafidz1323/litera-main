@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Litera App (Android Emulator)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "flutter_emulator"
+    },
+    {
+      "name": "Litera App (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Litera App (Windows)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "windows"
+    }
+  ]
+}
